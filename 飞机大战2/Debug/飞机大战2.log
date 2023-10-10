@@ -1,0 +1,60 @@
+﻿  boos.cpp
+C:\Users\d\source\repos\飞机大战2\rectangle.h(25,15): error C2365: “rectangle1::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(9): message : 参见“rectangle1::blood”的声明
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\bullet.h(29,7): error C2365: “bullet::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\bullet.h(10): message : 参见“bullet::blood”的声明
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,9): error C2059: 语法错误:“=”
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,12): error C2238: 意外的标记位于“;”之前
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  bullet.cpp
+C:\Users\d\source\repos\飞机大战2\rectangle.h(25,15): error C2365: “rectangle1::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(9): message : 参见“rectangle1::blood”的声明
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\bullet.h(29,7): error C2365: “bullet::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\bullet.h(10): message : 参见“bullet::blood”的声明
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,9): error C2059: 语法错误:“=”
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,12): error C2238: 意外的标记位于“;”之前
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  hero.cpp
+C:\Users\d\source\repos\飞机大战2\rectangle.h(25,15): error C2365: “rectangle1::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(9): message : 参见“rectangle1::blood”的声明
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\bullet.h(29,7): error C2365: “bullet::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\bullet.h(10): message : 参见“bullet::blood”的声明
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,9): error C2059: 语法错误:“=”
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,12): error C2238: 意外的标记位于“;”之前
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  menu.cpp
+C:\Users\d\source\repos\飞机大战2\rectangle.h(25,15): error C2365: “rectangle1::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(9): message : 参见“rectangle1::blood”的声明
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\bullet.h(29,7): error C2365: “bullet::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\bullet.h(10): message : 参见“bullet::blood”的声明
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,9): error C2059: 语法错误:“=”
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,12): error C2238: 意外的标记位于“;”之前
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\menu.h(123,1): error C2440: “类型强制转换”: 无法从“int”转换为“boos”
+C:\Users\d\source\repos\飞机大战2\menu.h(123,1): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+  飞机大战2.cpp
+C:\Users\d\source\repos\飞机大战2\rectangle.h(25,15): error C2365: “rectangle1::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(9): message : 参见“rectangle1::blood”的声明
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\rectangle.h(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\bullet.h(29,7): error C2365: “bullet::blood”: 重定义；以前的定义是“数据成员”
+C:\Users\d\source\repos\飞机大战2\bullet.h(10): message : 参见“bullet::blood”的声明
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,9): error C2059: 语法错误:“=”
+C:\Users\d\source\repos\飞机大战2\bullet.h(30,12): error C2238: 意外的标记位于“;”之前
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2059: 语法错误:“}”
+C:\Users\d\source\repos\飞机大战2\bullet.h(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\d\source\repos\飞机大战2\menu.h(123,1): error C2440: “类型强制转换”: 无法从“int”转换为“boos”
+C:\Users\d\source\repos\飞机大战2\menu.h(123,1): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+  正在生成代码...
